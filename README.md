@@ -29,3 +29,4 @@ npm stop
 - Use `npm test` to run unit test.
 
 [egg]: https://eggjs.org
+# egg-example
